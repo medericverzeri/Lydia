@@ -1,0 +1,786 @@
+{
+  "home": {
+    "logo": {
+      "id": "logo-materiosol",
+      "alt": "MATÉRIOSOL — L’Économie Circulaire des Matériaux",
+      "fit": "contain",
+      "src": "/api/media/19b4176a-ebf7-36cc-7dbf-808b41f1e659",
+      "position": "50% 50%"
+    },
+    "text": "Chargée de développement\nen économie circulaire chez",
+    "portrait": {
+      "id": "portrait-lydia",
+      "alt": "Lydia Charpentier, chargée de développement Matériosol",
+      "fit": "cover",
+      "src": "/api/media/c2e77d05-4d82-d01f-8f96-97ae860dcbd2",
+      "position": "50% 25%"
+    }
+  },
+  "site": {
+    "legal": "Éditeur : Matériosol — Maison d’Économie Solidaire.\nResponsable de la publication : Lydia Charpentier, chargée de développement.\nLes textes et images présentés sont issus de la documentation Matériosol et de l’écosystème de l’économie solidaire. Les logos restent la propriété de leurs détenteurs.\nLes messages adressés depuis le formulaire sont conservés uniquement pour permettre une réponse. Aucun outil de suivi publicitaire n’est utilisé.",
+    "theme": {
+      "ink": "#253832",
+      "line": "#dee5dc",
+      "muted": "#6e7b73",
+      "accent": "#1ca39c",
+      "surface": "#ffffff",
+      "accentDark": "#18736c",
+      "background": "#f7f7f2",
+      "portraitBackground": "#e1e9de"
+    },
+    "title": "Lydia Charpentier — Matériosol",
+    "design": {
+      "font": "Manrope",
+      "rounded": 22,
+      "contentWidth": 1200,
+      "backgroundImage": "/images/original/canva/MAHQDlSEorY__afec2f60db29de73b124723db7559d42.png",
+      "backgroundOpacity": 0.1
+    },
+    "labels": {
+      "top": "Retour en haut",
+      "menu": "Ouvrir le menu",
+      "next": "Suivant",
+      "send": "Envoyer",
+      "sent": "Votre message a bien été transmis.",
+      "admin": "Espace admin",
+      "close": "Fermer",
+      "legal": "Mentions légales",
+      "photo": "photo",
+      "photos": "photos",
+      "morning": "Matin",
+      "sending": "Envoi en cours…",
+      "allHours": "Lundi, mercredi et vendredi",
+      "formName": "Votre nom",
+      "homeNext": "Découvrir mon rôle",
+      "mornings": "08h30–12h15",
+      "nextPage": "Page suivante",
+      "previous": "Précédent",
+      "afternoon": "Après-midi",
+      "closeMenu": "Fermer le menu",
+      "formEmail": "Votre e-mail",
+      "formError": "Le message n’a pas pu être transmis. Veuillez réessayer.",
+      "formPhone": "Votre téléphone",
+      "formTitle": "Contactez-nous",
+      "nextPhoto": "Photo suivante",
+      "openAlbum": "Ouvrir l’album",
+      "openPhoto": "Agrandir la photo",
+      "afternoons": "13h30–17h30",
+      "heroButton": "Contactez-nous",
+      "hoursTitle": "Disponibilités",
+      "backGallery": "Retour à la galerie",
+      "formMessage": "Votre message",
+      "formPrivacy": "Ces informations servent uniquement à répondre à votre demande. Vous pouvez demander leur suppression en nous contactant.",
+      "previousPhoto": "Photo précédente",
+      "formOrganization": "Votre entreprise"
+    },
+    "favicon": "/api/media/19b4176a-ebf7-36cc-7dbf-808b41f1e659",
+    "lastName": "CHARPENTIER",
+    "firstName": "Lydia",
+    "navigation": [
+      {
+        "id": "accueil",
+        "label": "Accueil",
+        "visible": true,
+        "slug": "accueil",
+        "hidden": false
+      },
+      {
+        "id": "apropos",
+        "label": "A propos de moi",
+        "visible": true,
+        "slug": "apropos",
+        "hidden": false
+      },
+      {
+        "id": "entreprises",
+        "label": "Le réseau",
+        "visible": true,
+        "slug": "entreprises",
+        "hidden": false
+      },
+      {
+        "id": "galerie",
+        "label": "Galerie",
+        "visible": true,
+        "slug": "galerie",
+        "hidden": false
+      },
+      {
+        "id": "contact",
+        "label": "Contactez-nous",
+        "visible": true,
+        "slug": "contact",
+        "hidden": false
+      }
+    ],
+    "description": "Chargée de développement Matériosol : développement de l’économie circulaire des matériaux et des partenariats du réemploi.",
+    "sectionOrder": [
+      "accueil",
+      "apropos",
+      "entreprises",
+      "galerie",
+      "contact"
+    ]
+  },
+  "about": {
+    "title": "A propos de moi",
+    "images": [
+      {
+        "id": "about-logo-materiosol",
+        "alt": "Logo Matériosol",
+        "fit": "contain",
+        "src": "/api/media/19b4176a-ebf7-36cc-7dbf-808b41f1e659",
+        "position": "50% 50%"
+      },
+      {
+        "id": "MAHQEPH4wJU",
+        "alt": "Dépose préservante et tri des matériaux",
+        "fit": "cover",
+        "src": "/api/media/fe70f630-f4ed-ef9c-0f15-342ff9e62cb5",
+        "position": "50% 50%"
+      }
+    ],
+    "missions": "Mes principales missions :\n\nDévelopper les partenariats avec les entreprises du bâtiment, les collectivités et les prescripteurs.\nIdentifier et qualifier les gisements de matériaux réemployables.\nOrganiser la collecte, la traçabilité et la valorisation des matériaux.\nAccompagner les professionnels vers des pratiques de dépose préservante et d’achat responsable.\nConcevoir des supports, formations et actions de sensibilisation à l’économie circulaire.\nContribuer au déploiement commercial et territorial de Matériosol.",
+    "introduction": "Chargée de développement chez Matériosol :\n\nJ'accompagne le développement de la filière de réemploi des matériaux du bâtiment et la structuration de partenariats durables avec les entreprises, collectivités et acteurs de l'économie sociale et solidaire.\n\nMon rôle consiste à identifier les gisements, à mettre en relation les acteurs du territoire et à construire des solutions concrètes pour donner une seconde vie aux matériaux.\n\nJe conçois et anime également des actions de sensibilisation, des formations et des outils de valorisation autour de l'économie circulaire.\n\nJe participe au suivi et au déploiement du projet Matériosol aux côtés des équipes de la Maison d’Économie Solidaire."
+  },
+  "hours": {
+    "days": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "morningEnd": "12:15",
+    "afternoonEnd": "17:30",
+    "morningStart": "08:30",
+    "afternoonStart": "13:30"
+  },
+  "albums": [
+    {
+      "id": "dechetlab",
+      "title": "Matériosol — tri et préparation des matériaux",
+      "photos": [
+        {
+          "id": "MAHP90_NSFE",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 1",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/49e2ae09-9417-e63e-68b9-0412f8a54051",
+          "ratio": 1.00932,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHH99XUvjk",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 2",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/8e70e812-a2aa-08fc-7273-35034462dc12",
+          "ratio": 1.33333,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHH90MKXkY",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 3",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/fb23dae2-2146-9184-590f-07e9cd0fb95d",
+          "ratio": 1.33333,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHH9-Xd9q4",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 4",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/44496a01-517f-7e53-8062-a736c2ab2926",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEC2uebY",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 5",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/5ee6a319-9205-370e-25dc-af136f13a4d5",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEFBvSms",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 6",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/b5feacaa-caff-ede7-9449-531e9a89b770",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEOJ-HX0",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 7",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/a6968f73-59de-2973-e23b-ae5c666a30e2",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQENEHUPg",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 8",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/d4d3abfc-3f3e-85f7-f303-351e39f7848c",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEC-_su0",
+          "alt": "Matériosol — tri et préparation des matériaux — photo 9",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/d764a26c-0627-0b0a-9437-cdaf787d1737",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        }
+      ]
+    },
+    {
+      "id": "depose-preservante",
+      "title": "Dépose préservante & réemploi",
+      "photos": [
+        {
+          "id": "MAHQEL_-oK8",
+          "alt": "Dépose préservante & réemploi — photo 1",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/f3987145-c6c1-c196-b159-545ea8d9b343",
+          "ratio": 1.33333,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEVbADLk",
+          "alt": "Dépose préservante & réemploi — photo 2",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/6b81b8eb-4095-be23-7c83-f1cd80bfffd4",
+          "ratio": 1.33333,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEaX6cl8",
+          "alt": "Dépose préservante & réemploi — photo 3",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/84d1a2d2-0f67-2702-7f90-082244734ff9",
+          "ratio": 1.20441,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQESwwHtM",
+          "alt": "Dépose préservante & réemploi — photo 4",
+          "fit": "cover",
+          "row": 0,
+          "src": "/api/media/77502641-5a3f-a41e-46d9-57a7d849907d",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEHvk8wY",
+          "alt": "Dépose préservante & réemploi — photo 5",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/c4a23c66-2143-7395-8ed1-a51db35229ff",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQECmdgB4",
+          "alt": "Dépose préservante & réemploi — photo 6",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/1e152e9f-971a-1e8a-47ec-bdea10f3b9c3",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEKFy2QY",
+          "alt": "Dépose préservante & réemploi — photo 7",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/469e090a-8d11-3906-bed1-49b479580da7",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHQEFWfofY",
+          "alt": "Dépose préservante & réemploi — photo 8",
+          "fit": "cover",
+          "row": 1,
+          "src": "/api/media/ebe4bc33-b65e-e972-0c61-413999efc7cb",
+          "ratio": 0.75,
+          "caption": "",
+          "position": "50% 50%"
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "lead": "Pour répondre\nà vos besoins.",
+    "title": "Contactez-nous",
+    "choice": "Choisissez le moyen qui vous convient.",
+    "topics": [
+      {
+        "id": "sujet-1",
+        "icon": "♻",
+        "title": "Matériaux\nacceptés"
+      },
+      {
+        "id": "sujet-2",
+        "icon": "+",
+        "title": "Dépose\npréservante"
+      },
+      {
+        "id": "sujet-3",
+        "icon": "▣",
+        "title": "Partenariats\n& réseau"
+      },
+      {
+        "id": "sujet-4",
+        "icon": "◷",
+        "title": "Horaires &\nfonctionnement"
+      },
+      {
+        "id": "sujet-5",
+        "icon": "◆",
+        "title": "Tarifs"
+      },
+      {
+        "id": "sujet-6",
+        "icon": "?",
+        "title": "Réemploi"
+      },
+      {
+        "id": "sujet-7",
+        "icon": "…",
+        "title": "Autre\nquestion"
+      }
+    ],
+    "subject": "Matériosol ?",
+    "welcome": "À votre écoute,",
+    "channels": [
+      {
+        "id": "site",
+        "href": "https://eco-solidaire.fr/materiosol",
+        "icon": "globe",
+        "text": "eco-solidaire.fr/materiosol",
+        "title": "Site web",
+        "button": "Visiter le site",
+        "additionalLinks": []
+      },
+      {
+        "id": "telephone",
+        "href": "tel:+33609883647",
+        "icon": "phone",
+        "text": "06.09.88.36.47",
+        "title": "Téléphone",
+        "button": "Appeler",
+        "additionalLinks": []
+      },
+      {
+        "id": "email",
+        "href": "mailto:l.charpentier@eco-solidaire.fr",
+        "icon": "mail",
+        "text": "l.charpentier@eco-solidaire.fr",
+        "title": "E-mail",
+        "button": "Envoyer un e-mail",
+        "additionalLinks": []
+      }
+    ],
+    "portrait": {
+      "id": "contact-lydia",
+      "alt": "Lydia Charpentier",
+      "fit": "cover",
+      "src": "/api/media/c2e77d05-4d82-d01f-8f96-97ae860dcbd2",
+      "position": "50% 25%"
+    },
+    "question": "Vous avez une question concernant",
+    "colleagues": [
+      {
+        "id": "lydia-charpentier",
+        "name": "Lydia Charpentier",
+        "role": "En charge du développement Matériosol",
+        "email": "l.charpentier@eco-solidaire.fr",
+        "phone": "06.09.88.36.47",
+        "emailButton": "Envoyer un e-mail",
+        "phoneButton": "Appeler"
+      }
+    ],
+    "invitation": "N’hésitez pas à nous contacter",
+    "colleaguesTitle": "Votre contact développement"
+  },
+  "gallery": {
+    "tiles": [
+      {
+        "id": "couverture-1",
+        "span": 1,
+        "image": {
+          "id": "MAHN9CdUI8c",
+          "alt": "Matériosol — tri et préparation des matériaux",
+          "fit": "cover",
+          "src": "/api/media/1d58ea4a-553b-5557-1ade-570e91ae4600",
+          "position": "50% 50%"
+        },
+        "title": "Matériosol — tri et préparation des matériaux",
+        "albumId": "dechetlab"
+      },
+      {
+        "id": "couverture-2",
+        "span": 2,
+        "image": {
+          "id": "MAHQEXTG_r8",
+          "alt": "Dépose préservante & réemploi",
+          "fit": "cover",
+          "src": "/api/media/31002063-11e8-c95a-6c43-8ae64b01d6d8",
+          "position": "50% 50%"
+        },
+        "title": "Dépose préservante & réemploi",
+        "albumId": "depose-preservante"
+      },
+      {
+        "id": "couverture-3",
+        "span": 2,
+        "image": {
+          "id": "MAHQEXTG_r8",
+          "alt": "Chantier de dépose préservante",
+          "fit": "cover",
+          "src": "/api/media/31002063-11e8-c95a-6c43-8ae64b01d6d8",
+          "position": "50% 50%"
+        },
+        "title": "",
+        "albumId": "depose-preservante"
+      },
+      {
+        "id": "couverture-4",
+        "span": 1,
+        "image": {
+          "id": "MAHQEfAT0Q0",
+          "alt": "Matériaux triés",
+          "fit": "cover",
+          "src": "/api/media/6abb26f4-32f5-07f1-2111-4ac6b141967b",
+          "position": "50% 50%"
+        },
+        "title": "",
+        "albumId": ""
+      }
+    ],
+    "title": "Nos réalisations"
+  },
+  "companies": [
+    {
+      "id": "materiosol",
+      "href": "https://eco-solidaire.fr/materiosol",
+      "name": "Matériosol",
+      "image": {
+        "id": "MAHP90_NSFE",
+        "alt": "Matériosol",
+        "fit": "cover",
+        "src": "/api/media/49e2ae09-9417-e63e-68b9-0412f8a54051",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHHOnURXyw",
+          "alt": "Logo Matériosol",
+          "fit": "contain",
+          "src": "/api/media/19b4176a-ebf7-36cc-7dbf-808b41f1e659",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "L’économie circulaire des matériaux"
+    },
+    {
+      "id": "mes",
+      "href": "https://eco-solidaire.fr",
+      "name": "La maison d’économie solidaire",
+      "image": {
+        "id": "MAHP9uxt3lE",
+        "alt": "La maison d’économie solidaire",
+        "fit": "cover",
+        "src": "/api/media/351f9943-81c0-5540-a35f-101e479f505a",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHKtLJ1U8A",
+          "alt": "Logo La maison d’économie solidaire",
+          "fit": "contain",
+          "src": "/api/media/872ad090-a168-b849-73de-bfb9af702fc9",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Le siège social"
+    },
+    {
+      "id": "pays-de-bray",
+      "href": "https://eco-solidaire.fr/groupe-mes/paysdebrayservice",
+      "name": "Pays de bray service",
+      "image": {
+        "id": "MAGz2E_p3C0",
+        "alt": "Pays de bray service",
+        "fit": "cover",
+        "src": "/api/media/89698d54-959d-3247-eefd-53ef74a44974",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHP9ro8m9o",
+          "alt": "Logo Pays de bray service",
+          "fit": "contain",
+          "src": "/api/media/5e389723-904e-8986-59dd-2c97f992ff02",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Service d’aide à la personne"
+    },
+    {
+      "id": "alicias",
+      "href": "https://eco-solidaire.fr/groupe-mes/alicias",
+      "name": "Alicias",
+      "image": {
+        "id": "MAGTteXqos0",
+        "alt": "Alicias",
+        "fit": "cover",
+        "src": "/api/media/2eafd298-7571-1262-70fd-0088545d411e",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHP9vMI7xA",
+          "alt": "Logo Alicias",
+          "fit": "contain",
+          "src": "/api/media/0f5a2767-65ce-ccb9-0415-3216931578c8",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Formations et accompagnement"
+    },
+    {
+      "id": "sens-du-bray",
+      "href": "https://eco-solidaire.fr/groupe-mes/sensdubray",
+      "name": "Les sens du bray",
+      "image": {
+        "id": "MAHP9lNUFnk",
+        "alt": "Les sens du bray",
+        "fit": "cover",
+        "src": "/api/media/5521e5b3-b155-61f4-957b-431fb9e34558",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHP9GYeyyw",
+          "alt": "Logo Les sens du bray",
+          "fit": "contain",
+          "src": "/api/media/948c78bd-a045-250f-e8f6-671f71212659",
+          "position": "50% 50%"
+        },
+        {
+          "id": "MAHP9hnhYoA",
+          "alt": "Logo Les sens du bray",
+          "fit": "contain",
+          "src": "/api/media/ab36e00d-45eb-482f-ce6d-95c13cb77517",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Constructeurs de solutions"
+    },
+    {
+      "id": "recyclerie-lachapelle",
+      "href": "https://eco-solidaire.fr/groupe-mes/la-recyclerie-du-pays-de-bray",
+      "name": "La recyclerie  \nLachapelle-Aux-Pots",
+      "image": {
+        "id": "MAHP9h85zXU",
+        "alt": "La recyclerie  \nLachapelle-Aux-Pots",
+        "fit": "cover",
+        "src": "/api/media/fb2a058e-3139-50e4-a821-8c0a5409768c",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHP9siL3Fk",
+          "alt": "Logo La recyclerie  \nLachapelle-Aux-Pots",
+          "fit": "contain",
+          "src": "/api/media/3f8df8f0-3a7a-b059-ce9a-ae19fbe2e890",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Boutique et Réemploi"
+    },
+    {
+      "id": "recyclerie-gournay",
+      "href": "https://eco-solidaire.fr/groupe-mes/la-recyclerie-du-pays-de-bray",
+      "name": "La recyclerie\nGournay-en-Bray",
+      "image": {
+        "id": "MAHP9iNqU8w",
+        "alt": "La recyclerie\nGournay-en-Bray",
+        "fit": "cover",
+        "src": "/api/media/47a77471-26a9-c9e5-cbfd-faed64a516e7",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHQDnpC0Gc",
+          "alt": "Logo La recyclerie\nGournay-en-Bray",
+          "fit": "contain",
+          "src": "/api/media/7ccf5436-3177-93a6-2e26-6d10b4ab709d",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Boutique et Réemploi"
+    },
+    {
+      "id": "solitex",
+      "href": "https://www.solitex-oise.com",
+      "name": "Solitex Oise",
+      "image": {
+        "id": "MAHP9rHSuds",
+        "alt": "Solitex Oise",
+        "fit": "cover",
+        "src": "/api/media/b8e0718d-0261-6c63-b2db-911b77a42418",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHP9pCj_7E",
+          "alt": "Logo Solitex Oise",
+          "fit": "contain",
+          "src": "/api/media/41836e6a-67d9-e9d0-9880-ed6aff2cd403",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Le réemploi du textile"
+    },
+    {
+      "id": "recyclaide",
+      "href": "https://recyclaide.fr/?page=accueil",
+      "name": "Recycl’aide Oise",
+      "image": {
+        "id": "MAHP9lY8M6A",
+        "alt": "Recycl’aide Oise",
+        "fit": "cover",
+        "src": "/api/media/7fb84167-2d5c-dc9e-1e9c-c0963cd3eb8c",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHP9pN8tJU",
+          "alt": "Logo Recycl’aide Oise",
+          "fit": "contain",
+          "src": "/api/media/93fa94a5-6354-a886-aff0-a15ab15751d4",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Le réemploi des aides technique"
+    },
+    {
+      "id": "comptoir-c",
+      "href": "https://eco-solidaire.fr/groupe-mes/nos-lieux/comptoir-c",
+      "name": "Le Comptoir C\nBeauvais",
+      "image": {
+        "id": "comptoir-c-image",
+        "alt": "Le Comptoir C à Beauvais",
+        "fit": "cover",
+        "src": "/api/media/bbaa71b6-5450-d8f0-f8d5-4ceba9f98bea",
+        "position": "50% 50%"
+      },
+      "logos": [],
+      "category": "Économie circulaire et communs du Beauvaisis"
+    },
+    {
+      "id": "dechetlab",
+      "href": "https://eco-solidaire.fr/dechetlab",
+      "name": "Déchèt’Lab",
+      "image": {
+        "id": "MAHQEPH4wJU",
+        "alt": "Déchèt’Lab — déchèterie professionnelle à Beauvais",
+        "fit": "cover",
+        "src": "/api/media/fe70f630-f4ed-ef9c-0f15-342ff9e62cb5",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "MAHQDsk7bis",
+          "alt": "Déchèt’Lab",
+          "fit": "contain",
+          "src": "/api/media/f5b5f369-c468-0cff-d173-e2ba5999b9f5",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Déchèterie professionnelle · Beauvais"
+    },
+    {
+      "id": "batire",
+      "href": "https://batire.groupemes.fr/",
+      "name": "BatiRE",
+      "image": {
+        "id": "batire-logo",
+        "alt": "BatiRE — matériaux de réemploi",
+        "fit": "contain",
+        "src": "/api/media/46a8cccb-1d19-7ab7-1a93-17303bc85e9b",
+        "position": "50% 50%"
+      },
+      "logos": [
+        {
+          "id": "batire-logo",
+          "alt": "BatiRE — matériaux de réemploi",
+          "fit": "contain",
+          "src": "/api/media/46a8cccb-1d19-7ab7-1a93-17303bc85e9b",
+          "position": "50% 50%"
+        }
+      ],
+      "category": "Réemploi des matériaux du bâtiment"
+    }
+  ],
+  "hiddenPages": [
+    {
+      "id": "espace-pro",
+      "slug": "espace-pro",
+      "label": "Espace pro",
+      "showInNav": false,
+      "eyebrow": "MATÉRIOSOL / RESSOURCES",
+      "title": "Espace professionnel",
+      "body": "Cette page est volontairement absente de la navigation publique. Partagez son lien uniquement avec vos partenaires.\n\nRetrouvez ici vos documents, plaquettes et supports de présentation. Les fichiers sont hébergés avec le site, sans lien externe.",
+      "image": {
+        "id": "hidden-logo",
+        "alt": "Logo Matériosol",
+        "fit": "contain",
+        "src": "/api/media/19b4176a-ebf7-36cc-7dbf-808b41f1e659",
+        "position": "50% 50%"
+      },
+      "documents": [
+        {
+          "id": "plaquette",
+          "title": "Plaquette de présentation",
+          "description": "Document PDF d’exemple — remplaçable depuis l’administration.",
+          "url": "/api/media/659a47bc-ba60-254c-be85-b92b3897be2a"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-01-01T00:00:00.000Z"
+}
