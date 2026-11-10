@@ -1,9 +1,9 @@
 import { randomUUID } from "node:crypto";
-import { db } from "@/db";
-import { adminSettings, contactMessages, mediaAssets, siteContent } from "@/db/schema";
-import { cloneContent, contentVersion, initialContent, type SiteContent } from "@/lib/content";
+import { db } from "../db";
+import { adminSettings, contactMessages, mediaAssets, siteContent } from "../db/schema";
+import { cloneContent, contentVersion, initialContent, type SiteContent } from "./content";
 import { desc, eq, sql } from "drizzle-orm";
-import embeddedMedia from "@/data/embedded-media.json";
+import embeddedMedia from "../data/embedded-media.json";
 
 type EmbeddedAsset = {
   id: string;

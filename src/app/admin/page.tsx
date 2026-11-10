@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
-import { AdminApp } from "@/components/AdminApp";
-import { getAdminAuthConfig, isAdmin } from "@/lib/auth";
-import { getAdminSnapshot } from "@/lib/data";
+import { AdminApp } from "../../components/AdminApp";
+import { getAdminAuthConfig, isAdmin } from "../../lib/auth";
+import { getAdminSnapshot } from "../../lib/data";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";

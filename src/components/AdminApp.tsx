@@ -5,12 +5,12 @@ import { useEffect, useRef, useState, type ChangeEvent, type FormEvent } from "r
 import {
   AdminButton, Card, ColorField, Field, MediaField, NumberField, RecordHead, TextField, Toggle,
   type MediaKind, type PickMediaHandler,
-} from "@/components/AdminFields";
-import { Icon, type IconName } from "@/components/Icon";
-import referenceMedia from "@/data/reference-media.json";
-import mediaUrls from "@/data/media-urls.json";
-import { cloneContent, contentVersion, type SiteContent } from "@/lib/content";
-import type { AdminSnapshot, MediaRecord, MessageRecord } from "@/lib/data";
+} from "./AdminFields";
+import { Icon, type IconName } from "./Icon";
+import referenceMedia from "../data/reference-media.json";
+import mediaUrls from "../data/media-urls.json";
+import { cloneContent, contentVersion, type SiteContent } from "../lib/content";
+import type { AdminSnapshot, MediaRecord, MessageRecord } from "../lib/data";
 
 type PathPart = string | number;
 type StaticMedia = { name: string; url: string; mime: string; kind: string };

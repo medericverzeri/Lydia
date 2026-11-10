@@ -1,10 +1,10 @@
 import { createHash, createHmac, randomBytes, timingSafeEqual } from "node:crypto";
 import { cookies } from "next/headers";
 import type { NextResponse } from "next/server";
-import { db } from "@/db";
-import { adminSettings } from "@/db/schema";
+import { db } from "../db";
+import { adminSettings } from "../db/schema";
 import { eq } from "drizzle-orm";
-import { ensureDatabase } from "@/lib/data";
+import { ensureDatabase } from "./data";
 
 export const ADMIN_COOKIE = "materiosol_admin_session";
 const SESSION_DAYS = 7;

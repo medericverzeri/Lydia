@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { getMedia } from "@/lib/data";
+import { getMedia } from "../../../../lib/data";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";

@@ -1,5 +1,5 @@
 import { boolean, integer, jsonb, pgTable, serial, text, timestamp, uuid } from "drizzle-orm/pg-core";
-import type { SiteContent } from "@/lib/content";
+import type { SiteContent } from "../lib/content";
 
 export const siteContent = pgTable("site_content", {
   id: integer("id").primaryKey(),

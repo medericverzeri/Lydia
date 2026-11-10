@@ -1,4 +1,4 @@
-import seed from "@/data/seed.json";
+import seed from "../data/seed.json";
 
 export type MediaItem = {
   id: string;

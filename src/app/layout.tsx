@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { ReactNode } from "react";
-import mediaUrls from "@/data/media-urls.json";
+import mediaUrls from "../data/media-urls.json";
 import "./globals.css";
 
 export const metadata: Metadata = {

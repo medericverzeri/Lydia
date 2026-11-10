@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
-import { isAdmin } from "@/lib/auth";
-import { deleteMessage, setMessageRead } from "@/lib/data";
+import { isAdmin } from "../../../../../lib/auth";
+import { deleteMessage, setMessageRead } from "../../../../../lib/data";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";

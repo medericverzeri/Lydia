@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { clearAdminCookie } from "@/lib/auth";
+import { clearAdminCookie } from "../../../../lib/auth";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";

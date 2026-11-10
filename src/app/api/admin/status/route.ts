@@ -1,8 +1,8 @@
 import { NextResponse } from "next/server";
-import { getAdminAuthConfig, isAdmin, type AdminAuthConfig } from "@/lib/auth";
-import { db } from "@/db";
+import { getAdminAuthConfig, isAdmin, type AdminAuthConfig } from "../../../../lib/auth";
+import { db } from "../../../../db";
 import { sql } from "drizzle-orm";
-import { getMediaStats, getPublishedVersion } from "@/lib/data";
+import { getMediaStats, getPublishedVersion } from "../../../../lib/data";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";

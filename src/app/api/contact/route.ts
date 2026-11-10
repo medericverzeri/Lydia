@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { createMessage } from "@/lib/data";
+import { createMessage } from "../../../lib/data";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";

@@ -1,5 +1,5 @@
-import { SiteApp } from "@/components/SiteApp";
-import { getPublishedContent } from "@/lib/data";
+import { SiteApp } from "../components/SiteApp";
+import { getPublishedContent } from "../lib/data";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";

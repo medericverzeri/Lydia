@@ -2,8 +2,8 @@
 
 import { useEffect, useMemo, useRef, useState, type CSSProperties, type FormEvent } from "react";
 import { useRouter } from "next/navigation";
-import { Icon, type IconName } from "@/components/Icon";
-import { contentVersion, type Album, type AlbumPhoto, type Channel, type HiddenPage, type MediaItem, type NavigationItem, type SiteContent } from "@/lib/content";
+import { Icon, type IconName } from "./Icon";
+import { contentVersion, type Album, type AlbumPhoto, type Channel, type HiddenPage, type MediaItem, type NavigationItem, type SiteContent } from "../lib/content";
 
 type LightboxState = { items: MediaItem[]; index: number } | null;
 type DialogState = "legal" | "hours" | "form" | null;

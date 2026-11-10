@@ -1,7 +1,7 @@
 "use client";
 
 import type { ReactNode } from "react";
-import { Icon } from "@/components/Icon";
+import { Icon } from "./Icon";
 
 export type MediaKind = "image" | "pdf";
 export type PickMediaHandler = (path: string, kind: MediaKind) => void;

@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
-import { isAdmin } from "@/lib/auth";
-import { createMedia } from "@/lib/data";
+import { isAdmin } from "../../../../lib/auth";
+import { createMedia } from "../../../../lib/data";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";

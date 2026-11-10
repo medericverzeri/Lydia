@@ -1,4 +1,4 @@
-import { getDeployCheck } from "@/lib/data";
+import { getDeployCheck } from "../../../lib/data";
 
 export const dynamic = "force-dynamic";
 export const runtime = "nodejs";

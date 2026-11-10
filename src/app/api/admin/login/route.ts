@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { attachAdminCookie, getAdminAuthConfig, verifyPassword } from "@/lib/auth";
+import { attachAdminCookie, getAdminAuthConfig, verifyPassword } from "../../../../lib/auth";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
